@@ -1,6 +1,12 @@
 # Introduction-to-SQLite
 Creating and inserting and schemas
 
+**Resources**
+
+Excellent review with code examples: https://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html
+
+
+**Exercises**
 
 - Create a new database in a file called or byte.db containing a single table called student_scores, with a single field called reading, and inserts 100,000 random numbers between 10.0 and 25.0. How long does it take this program to run? 
 
