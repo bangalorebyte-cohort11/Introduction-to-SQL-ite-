@@ -6,4 +6,5 @@ Creating and inserting and schemas
 
 - Create a new database called backup_byte.db with the same structure as byte.db and copies all the values greater than 20.0 from byte.db to backup.db.
 
-- Create a database with a schema appropriate for an e-commerce website. You should have two tables Customers and Orders. The following columns are available, place them in the appropriate tables (Address, Customer_email, date_placed, Customer_ID,Order_products, Amount,Customer_phone, Order_ID ). In each table, choose or create the appropriate primary and foreign keys keeping in mind you would want to query and analyse data from these tables. 
+- Create a database with a schema appropriate for an e-commerce website. You should have two tables Customers and Orders. The following columns are available, place them in the appropriate tables (Address, Customer_email, date_placed, Customer_ID,Order_products, Amount,Customer_phone, Order_ID ). In each table, choose or create the appropriate primary and foreign keys keeping in mind you would want to query and analyse data from these tables. Add random data to the tables and
+you should be able to make calls which give you, for example, Total sales (amount) for a specific date. 
